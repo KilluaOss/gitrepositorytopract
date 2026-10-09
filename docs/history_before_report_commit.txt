@@ -1,0 +1,11 @@
+*   e802c20 (HEAD -> main) Resolve merge conflict and keep evidence
+|\  
+| * 0981f0c (conflict-feature) Edit shared line on conflict-feature
+* | a8ac024 Edit same line on main
+|/  
+* 4ba593f Add original line for merge conflict
+*   4da7fa9 Merge feature-description into main
+|\  
+| * fff15a8 (feature-description) Add feature file in separate branch
+|/  
+* 115e8d8 Create initial repository
