@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Опис роботи: зміни з гілки main.
+=======
+Опис роботи: зміни з гілки conflict-feature.
+>>>>>>> conflict-feature
